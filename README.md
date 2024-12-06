@@ -77,20 +77,25 @@ assign f7=~(a^b);
 endmodule
 ```
 
- Developed by: RegisterNumber:24006365 
+ Developed by:thirunavukkarasu meenakshisundaram
+ RegisterNumber:24006365 
  
 **Logic symbol & Truthtable**
+
 ![WhatsApp Image 2024-10-29 at 10 24 50_7362c094](https://github.com/user-attachments/assets/f91ecf31-e1c6-42dc-b98b-df8e0836c72b)
 
 
 
 **RTL realization Output:** 
-![exp1](https://github.com/user-attachments/assets/11205981-2924-44f9-b218-7457076eafcb)
-the basic logic gate ARE STUDIED AND TRUTH TABLE ARE VERIFIED
 
-**RTL**
+![exp1](https://github.com/user-attachments/assets/11205981-2924-44f9-b218-7457076eafcb)
+
+
+**TIMING WAVEFORM**
+
+![image](https://github.com/user-attachments/assets/e142dbaa-b3b7-4de6-8b21-5614caa81698)
 
 
 **Result:**
 
-
+THE BASIC LOGIC GATE ARE STUDIED AND TRUTH TABLE ARE VERIFIED
